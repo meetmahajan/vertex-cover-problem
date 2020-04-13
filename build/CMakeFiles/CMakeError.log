@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5717a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5717a.dir/build.make CMakeFiles/cmTC_5717a.dir/build
+make[1]: Entering directory '/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_5717a.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5717a/fast' failed
+make: *** [cmTC_5717a/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_50416/fast"
+/usr/bin/make -f CMakeFiles/cmTC_50416.dir/build.make CMakeFiles/cmTC_50416.dir/build
+make[1]: Entering directory '/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_50416.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_50416/fast' failed
+make: *** [cmTC_50416/fast] Error 2
+
+
+

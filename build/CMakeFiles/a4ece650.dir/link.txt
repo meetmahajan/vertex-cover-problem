@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall   -rdynamic CMakeFiles/a4ece650.dir/ece650-a4.cpp.o  -o a4ece650 minisat/libminisat.a -lz 

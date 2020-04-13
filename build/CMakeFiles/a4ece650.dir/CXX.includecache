@@ -1,0 +1,152 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../minisat/minisat/core/Solver.h
+minisat/mtl/Vec.h
+../minisat/minisat/core/minisat/mtl/Vec.h
+minisat/mtl/Heap.h
+../minisat/minisat/core/minisat/mtl/Heap.h
+minisat/mtl/Alg.h
+../minisat/minisat/core/minisat/mtl/Alg.h
+minisat/mtl/IntMap.h
+../minisat/minisat/core/minisat/mtl/IntMap.h
+minisat/utils/Options.h
+../minisat/minisat/core/minisat/utils/Options.h
+minisat/core/SolverTypes.h
+../minisat/minisat/core/minisat/core/SolverTypes.h
+
+../minisat/minisat/core/SolverTypes.h
+assert.h
+-
+minisat/mtl/IntTypes.h
+../minisat/minisat/core/minisat/mtl/IntTypes.h
+minisat/mtl/Alg.h
+../minisat/minisat/core/minisat/mtl/Alg.h
+minisat/mtl/Vec.h
+../minisat/minisat/core/minisat/mtl/Vec.h
+minisat/mtl/IntMap.h
+../minisat/minisat/core/minisat/mtl/IntMap.h
+minisat/mtl/Map.h
+../minisat/minisat/core/minisat/mtl/Map.h
+minisat/mtl/Alloc.h
+../minisat/minisat/core/minisat/mtl/Alloc.h
+
+../minisat/minisat/mtl/Alg.h
+minisat/mtl/Vec.h
+../minisat/minisat/mtl/minisat/mtl/Vec.h
+
+../minisat/minisat/mtl/Alloc.h
+minisat/mtl/XAlloc.h
+../minisat/minisat/mtl/minisat/mtl/XAlloc.h
+minisat/mtl/Vec.h
+../minisat/minisat/mtl/minisat/mtl/Vec.h
+
+../minisat/minisat/mtl/Heap.h
+minisat/mtl/Vec.h
+../minisat/minisat/mtl/minisat/mtl/Vec.h
+minisat/mtl/IntMap.h
+../minisat/minisat/mtl/minisat/mtl/IntMap.h
+
+../minisat/minisat/mtl/IntMap.h
+minisat/mtl/Vec.h
+../minisat/minisat/mtl/minisat/mtl/Vec.h
+
+../minisat/minisat/mtl/IntTypes.h
+sys/int_types.h
+-
+sys/int_fmtio.h
+-
+sys/int_limits.h
+-
+stdint.h
+-
+inttypes.h
+-
+limits.h
+-
+
+../minisat/minisat/mtl/Map.h
+minisat/mtl/IntTypes.h
+../minisat/minisat/mtl/minisat/mtl/IntTypes.h
+minisat/mtl/Vec.h
+../minisat/minisat/mtl/minisat/mtl/Vec.h
+
+../minisat/minisat/mtl/Vec.h
+assert.h
+-
+limits
+-
+new
+-
+minisat/mtl/IntTypes.h
+../minisat/minisat/mtl/minisat/mtl/IntTypes.h
+minisat/mtl/XAlloc.h
+../minisat/minisat/mtl/minisat/mtl/XAlloc.h
+
+../minisat/minisat/mtl/XAlloc.h
+errno.h
+-
+stdlib.h
+-
+
+../minisat/minisat/utils/Options.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+string.h
+-
+minisat/mtl/IntTypes.h
+../minisat/minisat/utils/minisat/mtl/IntTypes.h
+minisat/mtl/Vec.h
+../minisat/minisat/utils/minisat/mtl/Vec.h
+minisat/utils/ParseUtils.h
+../minisat/minisat/utils/minisat/utils/ParseUtils.h
+
+../minisat/minisat/utils/ParseUtils.h
+stdlib.h
+-
+stdio.h
+-
+zlib.h
+-
+minisat/mtl/XAlloc.h
+../minisat/minisat/utils/minisat/mtl/XAlloc.h
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/SATSolver.cpp
+minisat/core/SolverTypes.h
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/minisat/core/SolverTypes.h
+minisat/core/Solver.h
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/minisat/core/Solver.h
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/adjMatrix.cpp
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/ece650-a4.cpp
+bits/stdc++.h
+-
+errorPrinting.cpp
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/errorPrinting.cpp
+regexLogic.cpp
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/regexLogic.cpp
+adjMatrix.cpp
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/adjMatrix.cpp
+parsingLogic.cpp
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/parsingLogic.cpp
+SATSolver.cpp
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/SATSolver.cpp
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/errorPrinting.cpp
+bits/stdc++.h
+-
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/parsingLogic.cpp
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/regexLogic.cpp
+

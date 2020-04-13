@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/doctest.h
+ciso646
+-
+iosfwd
+-
+iosfwd
+-
+cstddef
+-
+type_traits
+-
+doctest_fwd.h
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/doctest_fwd.h
+ctime
+-
+cmath
+-
+math.h
+-
+new
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+limits
+-
+utility
+-
+sstream
+-
+iomanip
+-
+vector
+-
+set
+-
+exception
+-
+stdexcept
+-
+csignal
+-
+cfloat
+-
+stdint.h
+-
+unistd.h
+-
+AfxWin.h
+-
+windows.h
+-
+io.h
+-
+sys/time.h
+-
+sys/types.h
+-
+unistd.h
+-
+sys/sysctl.h
+-
+
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/test.cpp
+doctest.h
+/home/meet/A_Local_Disk(C)/University of Waterloo_MEng_ECE/Winter 2020/ECE 650/Assignments/Assignment : 4/mnmahaja/doctest.h
+
